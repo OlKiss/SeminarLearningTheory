@@ -26,7 +26,7 @@ Every finite hypothesis class is PAC learnable with following sample complexity:
 $m_H(\delta; \epsilon) \leq \frac{\log\frac{\|\mathcal{H}\|}{\delta}}{\epsilon}$
 
 
-### More general learning rile:
+### More general learning rule:
 
 * Realizability assumption does not hold quite often
 
